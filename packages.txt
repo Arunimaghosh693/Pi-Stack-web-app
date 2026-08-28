@@ -1,0 +1,3 @@
+openbabel
+libopenbabel-dev
+libxrender1
