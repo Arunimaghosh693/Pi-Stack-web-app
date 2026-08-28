@@ -62,18 +62,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-'''
-st.markdown("""
-<style>
-[data-testid="stSidebar"] {
-    position: sticky;
-    top: 0;
-    height: 100vh;
-    overflow-y: auto;
-}
-</style>
-""", unsafe_allow_html=True)
-'''
+
 
 st.markdown("""
 <style>
