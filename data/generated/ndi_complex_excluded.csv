@@ -1,0 +1,5 @@
+SMILES,Sidechain,Source,MW,Sidechain_RB,Sidechain_HA,Sidechain_Bonds,SidechainComplexity,MolFormula
+CC(C)CCCC(C)CCN1C(=O)c2ccc3c4ccc5c6c(ccc(c7ccc(c2c37)C1=O)c64)C(=O)N(CCC(C)CCCC(C)C)C5=O,CCC(C)C,Generated,670.8939999999999,1,5,4,0.0,C44H50N2O4
+CCCN1C(=O)c2ccc3c4c(ccc(c24)C1=O)C(=O)N(CC(C)CCCCCN1C(=O)c2ccc4c5c(ccc(c25)C1=O)C(=O)N(CC(C)CCN1C(=O)c2ccc5c6ccc7c8c(ccc(c9ccc(c2c59)C1=O)c86)C(=O)N(CCC(C)CN1C(=O)c2ccc5c6c(ccc(c26)C1=O)C(=O)N(CCCCCC(C)CN1C(=O)c2ccc6c8c(ccc(c28)C1=O)C(=O)N(CCC)C6=O)C5=O)C7=O)C4=O)C3=O,CCCN1C(=O)c2ccc3c4c(ccc(c24)C1=O)C(=O)N(CC(C)CC)C3=O,Generated,1896.0019999999997,5,28,31,7.0,C112H90N10O20
+CCCCCCCCN1C(=O)c2ccc3c4ccc5c6c(ccc(c7ccc(c2c37)C1=O)c64)C(=O)N(CCCCCCCC)C5=O,CCCC,Generated,614.7860000000001,1,4,3,0.0,C40H42N2O4
+CCCN1C(=O)c2ccc3c4c(ccc(c24)C1=O)C(=O)N(CCCCCCCN1C(=O)c2ccc4c5c(ccc(c25)C1=O)C(=O)N(CCCCN1C(=O)c2ccc5c6ccc7c8c(ccc(c9ccc(c2c59)C1=O)c86)C(=O)N(CCCCN1C(=O)c2ccc5c6c(ccc(c26)C1=O)C(=O)N(CCCCCCCN1C(=O)c2ccc6c8c(ccc(c28)C1=O)C(=O)N(CCC)C6=O)C5=O)C7=O)C4=O)C3=O,CCCCN1C(=O)c2ccc3c4c(ccc(c24)C1=O)C(=O)N(CCC)C3=O,Generated,1839.8939999999998,5,27,30,7.0,C108H82N10O20

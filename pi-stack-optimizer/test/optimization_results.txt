@@ -1,0 +1,4 @@
+Best objective: -139.179842 kJ/mol
+Binding energy (per interface): -139.179830 kJ/mol
+Best params: θ = -64.343°  Tx=-0.4805 Å, Ty=-1.0691 Å, Tz=3.2340 Å, Cx=1.6002 Å, Cy=0.8341 Å  |  reduced torsions: [-32.429°, -37.840°, 145.252°]
+Full torsion angles (degrees): -32.429, -37.840, 145.252
