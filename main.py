@@ -23,7 +23,7 @@ from collections import Counter
 
 
 
-# Lazy RDKit Loader (HF SAFE)
+# Lazy RDKit Loader
 @st.cache_resource
 def load_rdkit():
     try:
@@ -36,8 +36,13 @@ def load_rdkit():
             rdMolDescriptors
         )
         from PIL import Image
+
         return True, Chem, Draw
-    except ImportError:
+
+    except Exception as e:
+        st.error(
+            f"RDKit import failed: {type(e).__name__}: {e}"
+        )
         return False, None, None
 
 
